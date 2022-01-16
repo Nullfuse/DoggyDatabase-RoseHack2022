@@ -19,5 +19,6 @@ We learned a new coding language (Python) and how to implement a GUI into our pr
 ## What's next for Dog Database
 Our hope is that animal shelters can use this simple software as a startup to store dogs and their info. Hopefully, in the future, we could implement a simpler design to our program. 
 
-Replit Link: https://replit.com/@Nullfuse/Rose-Hack-2022-Project-Revision
+\
+Replit Link: https://replit.com/@Nullfuse/Rose-Hack-2022-Project-Revision \
 Project Video: https://github.com/Nullfuse/DoggyDatabase-RoseHack2022
