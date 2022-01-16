@@ -21,4 +21,4 @@ Our hope is that animal shelters can use this simple software as a startup to st
 
 \
 Replit Link: https://replit.com/@Nullfuse/Rose-Hack-2022-Project-Revision \
-Project Video: https://github.com/Nullfuse/DoggyDatabase-RoseHack2022
+Project Video: https://www.youtube.com/watch?v=g3dkASc3ilw
